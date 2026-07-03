@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background: #0a1f6b;
+  overflow: hidden;
+}
+
+/* canvas full layar */
+canvas {
+  display: block;
+}
